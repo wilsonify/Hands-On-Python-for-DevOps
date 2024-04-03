@@ -1,0 +1,9 @@
+boto3
+docker
+confluent-kafka
+flask
+kubernetes
+matplotlib
+pillow
+huggingface_hub
+transformers[agents]
